@@ -7,3 +7,9 @@ p{
 text-align: center;
 font-size: 40px;
 }
+
+#imagem1{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
